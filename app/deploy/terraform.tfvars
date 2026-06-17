@@ -1,5 +1,5 @@
 subnets_id = [
-  "sua-subnet-a",
-  "sua-subnet-b",
-  "sua-subnet-c"
+  "subnet-00edd44e2f8c9eadf",
+  "subnet-0d40a6eea798e9b7f",
+  "subnet-087ce8ff9b4968763"
 ]
